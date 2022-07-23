@@ -16,7 +16,7 @@ body{
     place-items: start center;
 }
 header{
-    background-image: url("images/bg-header-desktop.png");
+    background-image: url("bg-header-desktop.png");
 }
 footer{
     margin-top: 10%;
